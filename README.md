@@ -27,7 +27,7 @@ stays private so if you would like to see my work please email me and let me kno
 <img align="left" alt="php" width="26px" src="https://github.com/legacy-icons/vendor-icons/blob/master/src/php.png" />
 
 
-[linkedin]: www.linkedin.com/in/zachary-almas
+[linkedin]: https://www.linkedin.com/in/zachary-almas
 [insta]: https://www.instagram.com/stempunk_/
 [facebook]: https://www.facebook.com/profile.php?id=100009085535412
 [github]: https://github.com/ThatGhostToast
