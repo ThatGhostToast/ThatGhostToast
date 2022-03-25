@@ -1,5 +1,5 @@
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<!-- <img src="https://github.com/ThatGhostToast/ThatGhostToast/blob/main/Banner.png" alt="banner that says Zac Almas"> -->
+<img src="https://github.com/ThatGhostToast/ThatGhostToast/blob/main/GithubBanner.png" alt="banner that says Zac Almas">
 My name is Zac Almas and I'm a programmer pursuing my bachelors degree in software development. My university requires that my GitHub
 stays private so if you would like to see my work please email me and let me know!
 - 📬 How to reach me: [@ZacAlmas][linkedin] or email me at [zacalmas@gmail.com](mailto:zacalmas@gmail.com). Feel free to ask me anything!
@@ -26,6 +26,11 @@ stays private so if you would like to see my work please email me and let me kno
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MySql" width="26px" src="https://github.com/legacy-icons/vendor-icons/blob/master/src/mysql.png" />
 <img align="left" alt="php" width="26px" src="https://github.com/legacy-icons/vendor-icons/blob/master/src/php.png" />
+
+<br />
+
+### Certified In:
+<img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
 
 
 [linkedin]: https://www.linkedin.com/in/zachary-almas
