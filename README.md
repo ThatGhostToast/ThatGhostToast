@@ -1,8 +1,10 @@
 # Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <img src="https://github.com/ThatGhostToast/ThatGhostToast/blob/main/GithubBanner.png" alt="banner that says Zac Almas">
 My name is Zac Almas and I'm a programmer pursuing my bachelors degree in software development. My university requires that my GitHub
-stays private so if you would like to see my work please email me and let me know!
-- 📬 How to reach me: [@ZacAlmas][linkedin] or email me at [zacalmas@gmail.com](mailto:zacalmas@gmail.com). Feel free to ask me anything!
+stays private so if you would like to see my work please email me and let me know! <br /> <br />
+
+- 📬 How to reach me: [@ZacAlmas][linkedin] or email me at [zacalmas@gmail.com](mailto:zacalmas@gmail.com). <br />
+Feel free to ask me anything!
 
 ### Connect with me:
 [<img align="left" alt="ZacAlmas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
