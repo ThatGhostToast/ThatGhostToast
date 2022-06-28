@@ -1,4 +1,4 @@
-# Hey There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey There!
 <img src="https://github.com/ThatGhostToast/ThatGhostToast/blob/main/GithubBanner.png" alt="banner that says Zac Almas">
 My name is Zac Almas and I'm a programmer pursuing my bachelors degree in software development. My university requires that my GitHub
 stays private so if you would like to see my work please email me and let me know! <br /> <br />
