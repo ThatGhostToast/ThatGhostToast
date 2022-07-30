@@ -34,6 +34,7 @@ Feel free to ask me anything!
 ### Certified In:
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
+<img align="left" alt="CSS" width="26px" src="https://github.com/legacy-icons/vendor-icons/blob/master/src/css3.png" />
 
 
 [linkedin]: https://www.linkedin.com/in/zachary-almas
