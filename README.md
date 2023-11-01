@@ -1,6 +1,5 @@
 # Hey There!
-My name is Zac Almas and I'm a programmer pursuing my bachelors degree in software development. My university requires that my GitHub
-stays private so if you would like to see my work please email me and let me know! <br /> <br />
+My name is Zac Almas and I'm a programmer who recently graduated with a bachelors degree in software development. <br /> <br />
 
 - 📬 How to reach me: [@ZacAlmas][linkedin] or email me at [zacalmas@gmail.com](mailto:zacalmas@gmail.com). <br />
 Feel free to ask me anything!
@@ -18,6 +17,7 @@ Feel free to ask me anything!
 <img align="left" alt="C#" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="HTML5" width="26px" src="https://github.com/legacy-icons/vendor-icons/blob/master/src/html5.png" />
 <img align="left" alt="CSS" width="26px" src="https://github.com/legacy-icons/vendor-icons/blob/master/src/css3.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
