@@ -1,5 +1,13 @@
+```plaintext
+  _____               _    _                       _    ____ _               _  _____               _   
+ |__  /__ _  ___     / \  | |_ __ ___   __ _ ___  | |  / ___| |__   ___  ___| ||_   _|__   __ _ ___| |_ 
+   / // _` |/ __|   / _ \ | | '_ ` _ \ / _` / __| | | | |  _| '_ \ / _ \/ __| __|| |/ _ \ / _` / __| __|
+  / /| (_| | (__   / ___ \| | | | | | | (_| \__ \ | | | |_| | | | | (_) \__ \ |_ | | (_) | (_| \__ \ |_ 
+ /____\__,_|\___| /_/   \_\_|_| |_| |_|\__,_|___/ |_|  \____|_| |_|\___/|___/\__||_|\___/ \__,_|___/\__|
+```                                       
+
 # Hey There!
-My name is Zac Almas and I'm a programmer who recently graduated with a bachelors degree in software development. <br /> <br />
+My name is Zac Almas and I'm a software engineer with Nextech. <br /> <br />
 
 - 📬 How to reach me: [@ZacAlmas][linkedin] or email me at [zacalmas@gmail.com](mailto:zacalmas@gmail.com). <br />
 Feel free to ask me anything!
